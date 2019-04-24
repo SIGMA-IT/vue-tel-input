@@ -1187,13 +1187,13 @@ const allCountries = [
     '971',
   ],
   [
-    'United Kingdom',
+    'Reino Unido',
     'gb',
     '44',
     0,
   ],
   [
-    'United States',
+    'Estados Unidos',
     'us',
     '1',
     0,
